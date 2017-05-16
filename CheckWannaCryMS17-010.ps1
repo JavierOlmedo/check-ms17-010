@@ -1,8 +1,9 @@
 #Script para comprobar vulnerabilidad MS17-010
 
-#Imprimir banner
-$banner = (Get-Content C:\ps\config\comprobarwannacry\banner.txt) -join "`n"
-Write-host -foregroundcolor Magenta $banner
+#Autor: Javier Olmedo
+#Twitter: @JJavierOlmedo
+#http://hackpuntes.com
+#16/05/2017
 
 #ID de actualizaciones que deben de estar instaladas en el sistema para evitar la propagación de WannaCry
 $actualizaciones = ("KB4012212", "KB4012217", "KB4015551", "KB4019216", "KB4012216", "KB4015550", "KB4019215", "KB4013429", "KB4019472", "KB4015217", "KB4015438", "KB4016635")
