@@ -2,7 +2,7 @@
 
 #Autor: Javier Olmedo
 #Twitter: @JJavierOlmedo
-#http://hackpuntes.com
+#https://hackpuntes.com
 #16/05/2017
 
 #ID de actualizaciones que deben de estar instaladas en el sistema para evitar la propagación de WannaCry
